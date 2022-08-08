@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "fuse.js": "^6.4.6",
+    "libhoney": "^3.1.1",
+    "lodash": "^4.17.21",
+    "next": "latest",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-modal": "^3.12.1",
+    "react-syntax-highlighter": "^15.4.3",
+    "web-vitals": "^2.1.4"
+  }
+}
